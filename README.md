@@ -1,8 +1,6 @@
-# Hello-world#include <iostream>
-
+#include<stdio.h>
 int main()
 {
-    // Output the hello world text
-    std::cout << "Hello world!" << std::endl;
+    printf("hello world!");
     return 0;
 }
